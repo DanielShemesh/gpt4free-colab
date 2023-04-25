@@ -1,4 +1,4 @@
-# gpt4free-colab
+# Use ChatGPT for free with gpt4free - Jupyter Notebook
 
 ## Table of Contents
 1. [Colab Notebook for gpt4](#colab-notebook-for-gpt4)
