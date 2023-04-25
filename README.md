@@ -10,7 +10,7 @@
 
 ## Description
 
-This Colab notebook provides example usage for the `gpt4free` GitHub repository, which is developed by `xtekky` and can be found [here](https://github.com/xtekky/gpt4). `gpt4free` is a collection of multiple reverse-engineered language model APIs, aimed at decentralizing the AI industry. This notebook demonstrates how to use `gpt4`, a large language model developed by OpenAI. It serves as a practical guide for utilizing the `gpt4free` repository to harness the power of language models in your projects.
+This Colab notebook provides example usage for the `gpt4free` GitHub repository, which is developed by `xtekky` and can be found [here](https://github.com/xtekky/gpt4free). `gpt4free` is a collection of multiple reverse-engineered language model APIs, aimed at decentralizing the AI industry. This notebook demonstrates how to use `gpt4`, a large language model developed by OpenAI. It serves as a practical guide for utilizing the `gpt4free` repository to harness the power of language models in your projects.
 
 ## Copyright and Disclaimer
 - © 2023 Daniel Shemesh
