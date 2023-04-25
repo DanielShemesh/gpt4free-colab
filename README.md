@@ -1,18 +1,18 @@
 # Use ChatGPT for free with gpt4free - Jupyter Notebook
 
 ## Table of Contents
-1. [Colab Notebook for gpt4free](#colab-notebook-for-gpt4)
+1. [Colab Notebook for gpt4free](#colab-notebook-for-gpt4free)
 2. [Description](#description)
 3. [Copyright and Disclaimer](#copyright-and-disclaimer)
 
-## Colab Notebook for gpt4free
+## Colab Notebook for gpt4free <a name="colab-notebook-for-gpt4free"></a>
 - [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielShemesh/gpt4free-colab/blob/main/gpt4free.ipynb)
 
-## Description
+## Description <a name="description"></a>
 
 This Colab notebook provides example usage for the `gpt4free` GitHub repository, which is developed by `xtekky` and can be found [here](https://github.com/xtekky/gpt4free). `gpt4free` is a collection of multiple reverse-engineered language model APIs, aimed at decentralizing the AI industry. This notebook demonstrates how to use `gpt4`, a large language model developed by OpenAI. It serves as a practical guide for utilizing the `gpt4free` repository to harness the power of language models in your projects.
 
-## Copyright and Disclaimer
+## Copyright and Disclaimer <a name="copyright-and-disclaimer"></a>
 - © 2023 Daniel Shemesh
 - This Colab notebook is provided for educational and informational purposes only. The use of gpt4 or any other language model is subject to the terms and conditions set by OpenAI or respective owners. The code and instructions in this notebook may not be used for any illegal or malicious activities. The author(s) of this notebook are not responsible for any consequences resulting from the use of this notebook.
 
