@@ -6,7 +6,7 @@
 3. [Copyright and Disclaimer](#copyright-and-disclaimer)
 
 ## Colab Notebook for gpt4
-- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your_colab_notebook_link)
+- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielShemesh/gpt4free-colab/blob/main/gpt4free.ipynb)
 
 ## Description
 
